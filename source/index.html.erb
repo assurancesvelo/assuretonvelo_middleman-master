@@ -11,3 +11,12 @@ title: Le Wagon Middleman boilerplate
     <div><p>on test pleun de trucs t'es sur de ton coup</p></div>
 
 </div><!-- .welcome -->
+
+<div class="container" id="pricing">
+  <div class="row">
+    <h1>Les Partenaires du trophee</h1>
+    <% data.pens.each do |pen| %>
+      <%= partial(:pen, locals: {pen: pen}) %>
+    <% end %>
+  </div>
+</div>
