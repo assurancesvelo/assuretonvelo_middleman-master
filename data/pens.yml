@@ -32,6 +32,16 @@
   picture: pedaleur.png
   summary: Chaque mois recevez une <strong>box cycliste</strong> et découvrez de nouveaux produits
   price: Aller sur le site
+  color: primary
+- name: Spiritueux
+  picture: baristea.JPG
+  summary: Découvrez une large gamme <strong>des meilleurs</strong> produits<br> spiritueux
+  price: Aller sur le site
+  color: warning
+- name: Café de la Tour
+  picture: cafe_de_la_tour.jpg
+  summary: Les meilleurs cafés<strong>des meilleurs</strong> toute l'auvergne
+  price: Aller sur le site
   color: warning
 - name: Spiritueux
   picture: baristea.JPG

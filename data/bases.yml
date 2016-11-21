@@ -12,106 +12,67 @@
   statut: à venir
   statut_color: success
   date: 14/04/2017
-- name: La Pierre Chany
+  link: http://www.lapierrechany-43.fr/
+- name: La Jean François Bernard
   image_file: epreuve2.jpg
-  content: Il y aura foule à à Langeac, au coeur de l'auvergne le 6 aout prochain. En effet l'epreuve de cyclosportive la Pierre Chany que tous les passionnés connaissent depuis déjà 20 ans, continuera bel et bien à exister grâce à ....
-  long_distance: 141km
-  small_distance: 109km
-  small_differential: 1800m
-  long_differential: 2200m
+  content: Trois nouveaux parcours vous sont proposés, 2 en mode cyclosportif - La Jean-François Bernard 142 km - la Jeff 103 km et deux en mode rando 46 km et 103 km. Le but de ces épreuves est de passer un ...
+  long_distance: 142km
+  small_distance: 103km
+  small_differential: 1357m
+  long_differential: 1957m
   color_small_distance: success
   color_long_distance: danger
-  price: 29€
+  price: 30€
   price_color: warning
-  statut: à venir
-  statut_color: success
-  date: 14/04/2017
-- name: La Pierre Chany
+  statut: fini
+  statut_color: danger
+  date: 21/08/2016
+  link: http://jeff.cyclosportive.pagesperso-orange.fr/pages/acceuil.html
+- name: La Claudio Chiappuci
   image_file: epreuve3.jpg
-  content: Il y aura foule à à Langeac, au coeur de l'auvergne le 6 aout prochain. En effet l'epreuve de cyclosportive la Pierre Chany que tous les passionnés connaissent depuis déjà 20 ans, continuera bel et bien à exister grâce à ....
-  long_distance: 141km
-  small_distance: 109km
-  small_differential: 1800m
-  long_differential: 2200m
+  content: Les quatre parcours qui vous seront proposés partiront par le Morvan par la fameuse côte de Suze, pour ensuite contourné la Montagne de Bard Le Régulier. Ensuite vous escaladerez la montagne de ...
+  long_distance: 142km
+  small_distance: 102km
+  small_differential: 1327m
+  long_differential: 2256m
   color_small_distance: success
   color_long_distance: danger
   price: 29€
   price_color: warning
   statut: à venir
   statut_color: success
-  date: 14/04/2017
-- name: La Pierre Chany
+  date: 03/06/2017
+  link: http://www.cyclo-claudiochiappucci.fr/course_cyclo.html
+- name: La Lily Bergaud
   image_file: epreuve4.jpg
-  content: Il y aura foule à à Langeac, au coeur de l'auvergne le 6 aout prochain. En effet l'epreuve de cyclosportive la Pierre Chany que tous les passionnés connaissent depuis déjà 20 ans, continuera bel et bien à exister grâce à ....
-  long_distance: 141km
-  small_distance: 109km
-  small_differential: 1800m
-  long_differential: 2200m
+  content: 140 km, toutes catégories  Mauriac, Pons, le Falgoux, Col d'Aulac, Trizac, Riom es Montagnes, Apchon, Col de Serre, Pas de Peyrol, Col de Néronne, Saint Paul de Salers, Saint Martin Valmerou ...
+  long_distance: 156km
+  small_distance: 90km
+  small_differential: non communiqué
+  long_differential: non communiqué
   color_small_distance: success
   color_long_distance: danger
-  price: 29€
+  price: 28€
+  price_color: warning
+  statut: fini
+  statut_color: danger
+  date: 17/07/2016
+  link: https://www.facebook.com/veloclubdemauriac/
+- name: La Morvandelle
+  image_file: epreuve5.jpg
+  content: 140 km, toutes catégories  Mauriac, Pons, le Falgoux, Col d'Aulac, Trizac, Riom es Montagnes, Apchon, Col de Serre, Pas de Peyrol, Col de Néronne, Saint Paul de Salers, Saint Martin Valmerou ...
+  long_distance: 135km
+  small_distance: 104km
+  small_differential: non communiqué
+  long_differential: non communiqué
+  color_small_distance: success
+  color_long_distance: danger
+  price: 28€
   price_color: warning
   statut: à venir
   statut_color: success
-  date: 14/04/2017
-- name: La Pierre Chany
-  image_file: cyclo.png
-  content: Il y aura foule à à Langeac, au coeur de l'auvergne le 6 aout prochain. En effet l'epreuve de cyclosportive la Pierre Chany que tous les passionnés connaissent depuis déjà 20 ans, continuera bel et bien à exister grâce à ....
-  long_distance: 141km
-  small_distance: 109km
-  small_differential: 1800m
-  long_differential: 2200m
-  color_small_distance: success
-  color_long_distance: danger
-  price: 29€
-  price_color: warning
-  statut: à venir
-  statut_color: success
-  date: 14/04/2017
-- name: La Pierre Chany
-  image_file: epreuve2.jpg
-  content: Il y aura foule à à Langeac, au coeur de l'auvergne le 6 aout prochain. En effet l'epreuve de cyclosportive la Pierre Chany que tous les passionnés connaissent depuis déjà 20 ans, continuera bel et bien à exister grâce à ....
-  long_distance: 141km
-  small_distance: 109km
-  small_differential: 1800m
-  long_differential: 2200m
-  color_small_distance: success
-  color_long_distance: danger
-  price: 29€
-  price_color: warning
-  statut: à venir
-  statut_color: success
-  date: 14/04/2017
-- name: La Pierre Chany
-  image_file: epreuve3.jpg
-  content: Il y aura foule à à Langeac, au coeur de l'auvergne le 6 aout prochain. En effet l'epreuve de cyclosportive la Pierre Chany que tous les passionnés connaissent depuis déjà 20 ans, continuera bel et bien à exister grâce à ....
-  long_distance: 141km
-  small_distance: 109km
-  small_differential: 1800m
-  long_differential: 2200m
-  color_small_distance: success
-  color_long_distance: danger
-  price: 29€
-  price_color: warning
-  statut: à venir
-  statut_color: success
-  date: 14/04/2017
-- name: La Pierre Chany
-  image_file: epreuve4.jpg
-  content: Il y aura foule à à Langeac, au coeur de l'auvergne le 6 aout prochain. En effet l'epreuve de cyclosportive la Pierre Chany que tous les passionnés connaissent depuis déjà 20 ans, continuera bel et bien à exister grâce à ....
-  long_distance: 141km
-  small_distance: 109km
-  small_differential: 1800m
-  long_differential: 2200m
-  color_small_distance: success
-  color_long_distance: danger
-  price: 29€
-  price_color: warning
-  statut: à venir
-  statut_color: success
-  date: 14/04/2017
-
-
+  date: 11/04/2017
+  link: http://www.le-sportif.com/inscription/la-morvandelle-135-km-la-jean-paul-garde-la-grande-verriere-cyclisme-sur-route-09-04-2016.html
 
 
 
