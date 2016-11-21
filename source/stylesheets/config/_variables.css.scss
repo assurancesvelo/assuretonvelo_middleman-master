@@ -3,22 +3,22 @@
  * ------------------------------------- */
 // Google fonts
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
-$open-sans: "Open Sans", "Helvetica", "sans-serif";
-$montserrat: "Montserrat", "sans-serif";
+$base-font: "Open Sans", "Helvetica", "sans-serif";
+$header-font: "Montserrat", "sans-serif";
+
+// Local fonts (uncomment following lines)
+// @font-face {
+//   font-family: "Font Name";
+//   src: font-url('FontFile.eot');
+//   src: font-url('FontFile.eot?#iefix') format('embedded-opentype'),
+//        font-url('FontFile.woff') format('woff'),
+//        font-url('FontFile.ttf') format('truetype')
+// }
+// $my-font: "Font Name";
 
 // Font-size and line-height
 $base-size: 16px;
 $base-height: 1.4;
-
-// Local fonts
-@font-face {
-  font-family: "BrandonLight";
-  src: font-url('BrandonLight.eot');
-  src: font-url('BrandonLight.eot?#iefix') format('embedded-opentype'),
-       font-url('BrandonLight.woff') format('woff'),
-       font-url('BrandonLight.ttf') format('truetype')
-}
-$brandon-light: "BrandonLight";
 
 /* -------------------------------------
  * Colors
@@ -27,16 +27,13 @@ $brandon-light: "BrandonLight";
 $red: #EE5F5B;
 $blue: #469AE0;
 $yellow: #FDB631;
-$orange: #F86A25;
+$orange: #E67E22;
 $green: #32B796;
 $purple: #6452BD;
-$black: #101010;
 
-
-// Gray scale color scheme
+// Gray scale
 $gray-darker:  lighten(#000, 13.5%); // #222
 $gray-dark:    lighten(#000, 20%);   // #333
 $gray:         lighten(#000, 33.5%); // #555
 $gray-light:   lighten(#000, 46.7%); // #777
 $gray-lighter: lighten(#000, 93.5%); // #eee
-
