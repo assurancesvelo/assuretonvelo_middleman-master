@@ -43,8 +43,8 @@
   summary: Les meilleurs cafés<strong>des meilleurs</strong> toute l'auvergne
   price: Aller sur le site
   color: warning
-- name: Spiritueux
-  picture: baristea.JPG
-  summary: Découvrez une large gamme <strong>des meilleurs</strong> produits<br> spiritueux
+- name: Jean Francois Brioude
+  picture: plombier.png
+  summary: Un problème de plomberie <strong>Appelez JF</strong>
   price: Aller sur le site
-  color: warning
+  color: success
